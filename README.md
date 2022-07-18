@@ -2,7 +2,6 @@
 
 ## In progress of being a Fullstack Developer!
 
-- 🔭 Check out my Repositories: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything, everyday 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Backend
