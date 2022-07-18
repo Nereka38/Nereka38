@@ -1,6 +1,6 @@
 # Hi there, I'm Nerea (aka Nereka38) 👋
 
-## In progress of being a Fullstack Developer in process!
+## In progress of being a Fullstack Developer!
 
 - 🔭 Check out my Repositories: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything, everyday 🤣
