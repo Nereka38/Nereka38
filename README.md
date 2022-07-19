@@ -1,10 +1,8 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=8D1A51&width=800&height=100&lines=HI%2C+I'M+NEREKA!;WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
- <img align="right" alt="GIF" src="./images/hi.png" width="100" height="320" />
+<img alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=50&color=88094A&width=800&height=200&lines=HI,+I'M+NEREKA!;WELCOME+TO+MY+GITHUB - Google Chrome 2022-07-19 09-49-48 (online-video-cutter.com).gif" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=8D1A51&width=800&lines=About+Me)](https://git.io/typing-svg)
+<img align="left" alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=30&color=88094A&width=800&height=200&lines=ABOUT+ME - Google Chrome 2022-07-19 10-00-52 (online-video-cutter.com).gif" />
 ## In progress of being a Full Stack Web Developer!
 
 - 🌱 I’m currently learning everything, everyday 🤣
@@ -12,8 +10,7 @@
 - 🥅 2022 Goals: Learn more about Backend
 - ⚡ Fun fact: I love listening music and watching TV Series
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=8D1A51&width=800&lines=CONNECT+WITH+ME)](https://git.io/typing-svg)
-<img align="right" alt="GIF" src="./images/hi.png" width="100" height="320" />
+<img align="left" alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=30&color=88094A&width=800&height=200&lines=CONNECT+WITH+ME - Google Chrome 2022-07-19 10-01-14 (online-video-cutter.com).gif" />
 
 [![website] (./images/twitter.png)](https://twitter.com/)
 &nbsp;&nbsp;
@@ -22,7 +19,7 @@
 [![website](./images/instagram.png)](https://instagram.com/)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=8D1A51&width=800&lines=LANGUAGES+AND+TOOLS)](https://git.io/typing-svg)
+<img align="left" alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=30&color=88094A&width=800&height=200&lines=LANGUAGES+AND+TOOLS - Google Chrome 2022-07-19 10-02-06 (online-video-cutter.com).gif" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
