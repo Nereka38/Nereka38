@@ -14,7 +14,7 @@
 <img alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=30&color=88094A&width=800&height=200&lines=CONNECT+WITH+ME - Google Chrome 2022-07-19 10-01-14 (online-video-cutter.com).gif" />
 </div>
 
-[![website] (./images/twitter.png)](https://twitter.com/)
+[![website](./images/twitter.png)](https://twitter.com/)
 &nbsp;&nbsp;
 [![website](./images/linkedin.png)](https://linkedin.com/)
 &nbsp;&nbsp;
