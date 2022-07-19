@@ -4,13 +4,16 @@
 
 <img alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=30&color=88094A&width=800&height=200&lines=ABOUT+ME - Google Chrome 2022-07-19 10-00-52 (online-video-cutter.com).gif" />
 
-## In progress of being a Full Stack Web Developer!
+- 🎯 <b>In progress of being a FULL STACK WEB DEVELOPER!</b>
 
 - 🌱 I’m currently learning everything, everyday 🤣
+
 - 👯 I’m looking to collaborate with other content creators
+
 - 🥅 2022 Goals: Learn more about Backend
+
 - ⚡ Fun fact: I love listening music and watching TV Series
-<div>
+
 <img alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=30&color=88094A&width=800&height=200&lines=CONNECT+WITH+ME - Google Chrome 2022-07-19 10-01-14 (online-video-cutter.com).gif" />
 </div>
 
