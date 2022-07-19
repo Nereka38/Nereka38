@@ -1,6 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=8D1A51&width=800&height=100&lines=HI%2C+I'M+NEREKA!;WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+<div align="center">
 
-## In progress of being a Fullstack Developer!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=8D1A51&width=800&height=100&lines=HI%2C+I'M+NEREKA!;WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
+ <img align="right" alt="GIF" src="./images/hi.png" width="100" height="320" />
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=8D1A51&width=800&lines=About+Me)](https://git.io/typing-svg)
+## In progress of being a Full Stack Web Developer!
 
 - 🌱 I’m currently learning everything, everyday 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -8,8 +13,9 @@
 - ⚡ Fun fact: I love listening music and watching TV Series
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=8D1A51&width=800&lines=CONNECT+WITH+ME)](https://git.io/typing-svg)
+<img align="right" alt="GIF" src="./images/hi.png" width="100" height="320" />
 
-[![website](./images/twitter.png)](https://twitter.com/)
+[![website] (./images/twitter.png)](https://twitter.com/)
 &nbsp;&nbsp;
 [![website](./images/linkedin.png)](https://linkedin.com/)
 &nbsp;&nbsp;
