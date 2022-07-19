@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=50&color=88094A&width=800&height=200&lines=HI,+I'M+NEREKA!;WELCOME+TO+MY+GITHUB - Google Chrome 2022-07-19 09-49-48 (online-video-cutter.com).gif" />
+<img alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=50&color=8D1A51&width=800&height=220&lines=HI+I'M+NEREA!;DO+YOU+KNOW+ME_ - Google Chrome 2022-07-19 17-21-34 (online-video-cutter.com).gif" />
 </div>
 
 <img alt="GIF" src="./gif/https_readme-typing-svg.herokuapp.com_font=Pacifico&size=30&color=88094A&width=800&height=200&lines=ABOUT+ME - Google Chrome 2022-07-19 10-00-52 (online-video-cutter.com).gif" />
