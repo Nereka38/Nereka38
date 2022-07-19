@@ -1,4 +1,4 @@
-# Hi there, I'm Nerea (aka Nereka38) 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&color=8D1A51&width=800&height=100&lines=HI%2C+I'M+NEREKA!;WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
 
 ## In progress of being a Fullstack Developer!
 
@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Learn more about Backend
 - ⚡ Fun fact: I love listening music and watching TV Series
 
-### Connect with me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=8D1A51&width=800&lines=CONNECT+WITH+ME)](https://git.io/typing-svg)
 
 [![website](./images/twitter.png)](https://twitter.com/)
 &nbsp;&nbsp;
@@ -15,7 +15,8 @@
 &nbsp;&nbsp;
 [![website](./images/instagram.png)](https://instagram.com/)
 
-### Languages and Tools:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=8D1A51&width=800&lines=LANGUAGES+AND+TOOLS)](https://git.io/typing-svg)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
